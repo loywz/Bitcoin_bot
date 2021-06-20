@@ -1,0 +1,5 @@
+scripts/
+include/
+lib/
+pyvenv.cfg
+credenciais.py
